@@ -1,0 +1,58 @@
+[
+
+  {
+    "id": 1,
+    "image": "/assets/img/project/project_1.jpg",
+    "title": "Apple Shop",
+    "Technology": "Html, Css, bootstrap, vue js, inertia js, Laravel, mysql",
+    "coreFeatures": "Responsive Design, User Authentication, Admin Panel, Product Management, Order Management, Payment Integration, Shipping and Delivery Tracking.",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      },
+      {
+        "label": "Source Code",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/project/project_2.jpg",
+    "title": "Car Rental",
+    "Technology": "Technology: Html, Css, taildwind, vue js, inertia js, Laravel, mysql",
+    "coreFeatures": "Core Features: Responsive Design, User Authentication, Admin Panel, Car Management, Car Booking",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      },
+      {
+        "label": "Source Code",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/project/project_3.jpg",
+    "title": "Inventory Management System",
+    "Technology": "Technology: Html, Css, taildwind, Laravel, blade, mysql",
+    "coreFeatures": "Core Features: Responsive Design, User Authentication, Admin Panel, Car Management, Car Booking",
+    "links": [
+      {
+        "label": "Live Demo",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      },
+      {
+        "label": "Source Code",
+        "url": "https://github.com/samrat87573015/apple-shop"
+      }
+    ]
+  }
+  
+]
+
+
+

@@ -1,0 +1,190 @@
+{
+  "marqqrow_left": [
+    {
+      "id": 1,
+      "image": "/assets/img/skills/laravel.png",
+      "title": "Laravel"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/skills/github.png",
+      "title": "Github"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/skills/tailwindcss.png",
+      "title": "Tailwind"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/skills/bootstrap.jpeg",
+      "title": "Bootstrap"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/skills/html.png",
+      "title": "Html"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/skills/css.png",
+      "title": "Css"
+    },
+    {
+      "id": 7,
+      "image": "/assets/img/skills/javascript.png",
+      "title": "Javascript"
+    },
+    {
+      "id": 8,
+      "image": "/assets/img/skills/WordPress.png",
+      "title": "WordPress"
+    },
+    {
+      "id": 9,
+      "image": "/assets/img/skills/vue.png",
+      "title": "Vue js"
+    }
+  ],
+  "marqqrow_right": [
+    {
+      "id": 10,
+      "image": "/assets/img/skills/css.png",
+      "title": "Css"
+    },
+    {
+      "id": 11,
+      "image": "/assets/img/skills/WordPress.png",
+      "title": "WordPress"
+    },
+    {
+      "id": 12,
+      "image": "/assets/img/skills/github.png",
+      "title": "Github"
+    },
+    {
+      "id": 13,
+      "image": "/assets/img/skills/bootstrap.jpeg",
+      "title": "Bootstrap"
+    },
+    {
+      "id": 14,
+      "image": "/assets/img/skills/laravel.png",
+      "title": "Laravel"
+    },
+    {
+      "id": 15,
+      "image": "/assets/img/skills/javascript.png",
+      "title": "Javascript"
+    },
+    {
+      "id": 16,
+      "image": "/assets/img/skills/tailwindcss.png",
+      "title": "Tailwind"
+    },
+    {
+      "id": 17,
+      "image": "/assets/img/skills/html.png",
+      "title": "Html"
+    },
+    {
+      "id": 18,
+      "image": "/assets/img/skills/vue.png",
+      "title": "Vue js"
+    }
+  ],
+  "marqqrow_left2": [
+    {
+      "id": 10,
+      "image": "/assets/img/skills/css.png",
+      "title": "Css"
+    },
+    {
+      "id": 11,
+      "image": "/assets/img/skills/WordPress.png",
+      "title": "WordPress"
+    },
+    {
+      "id": 12,
+      "image": "/assets/img/skills/github.png",
+      "title": "Github"
+    },
+    {
+      "id": 13,
+      "image": "/assets/img/skills/bootstrap.jpeg",
+      "title": "Bootstrap"
+    },
+    {
+      "id": 14,
+      "image": "/assets/img/skills/laravel.png",
+      "title": "Laravel"
+    },
+    {
+      "id": 15,
+      "image": "/assets/img/skills/javascript.png",
+      "title": "Javascript"
+    },
+    {
+      "id": 16,
+      "image": "/assets/img/skills/tailwindcss.png",
+      "title": "Tailwind"
+    },
+    {
+      "id": 17,
+      "image": "/assets/img/skills/html.png",
+      "title": "Html"
+    },
+    {
+      "id": 18,
+      "image": "/assets/img/skills/vue.png",
+      "title": "Vue js"
+    }
+  ],
+  "marqqrow_right2": [
+    {
+      "id": 10,
+      "image": "/assets/img/skills/css.png",
+      "title": "Css"
+    },
+    {
+      "id": 11,
+      "image": "/assets/img/skills/WordPress.png",
+      "title": "WordPress"
+    },
+    {
+      "id": 12,
+      "image": "/assets/img/skills/github.png",
+      "title": "Github"
+    },
+    {
+      "id": 13,
+      "image": "/assets/img/skills/bootstrap.jpeg",
+      "title": "Bootstrap"
+    },
+    {
+      "id": 14,
+      "image": "/assets/img/skills/laravel.png",
+      "title": "Laravel"
+    },
+    {
+      "id": 15,
+      "image": "/assets/img/skills/javascript.png",
+      "title": "Javascript"
+    },
+    {
+      "id": 16,
+      "image": "/assets/img/skills/tailwindcss.png",
+      "title": "Tailwind"
+    },
+    {
+      "id": 17,
+      "image": "/assets/img/skills/html.png",
+      "title": "Html"
+    },
+    {
+      "id": 18,
+      "image": "/assets/img/skills/vue.png",
+      "title": "Vue js"
+    }
+  ]
+}
